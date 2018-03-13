@@ -1,0 +1,53 @@
+pwd - to know present working directory 
+
+ls - list out all the files and directories in current directory
+ls -ltr options gives long format which includes permissions,
+ls directory path
+ 
+cd - change directory 
+
+cat  file name - is to read the data /file
+head file name  - to display top 10 records
+head -n 15 file - to display top 15 records
+
+tail file name  - to display last 10 records
+tail -n 15 file - to display last 15 records
+
+vi is editor
+
+vi filename  will edit if file exists othervise it will edit 
+
+vi f1.txt
+
+touch a.txt will create a blank file 
+
+> is redirection with replace  and >>  redirection with append
+
+we can redirect output of any command 
+
+
+echo is print statment : echo "hello"
+
+
+mkdir  dir1 -  create directory
+
+rm  remove or delete a file 
+rm -R recursive remove or delere 
+rmdir is directory delere
+
+chmod is to change the permissions
+
+chmod 764 - full permission (read write executable) 7 read and write 6 read 4
+
+cd .. goes to parent directory 
+cd ~ goes to home directory 
+
+cp copy file to folder 
+
+cp filepath  distination folder path
+
+ps - to see all background process
+
+
+
+
